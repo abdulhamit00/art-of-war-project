@@ -1,5 +1,7 @@
-# WebDesign-2
+# Art Of War Project
 
-<h1>Art of War</h1>
+# Used Technologies
+- HTML5
+- CSS
 
 ![](artofwar.gif)
